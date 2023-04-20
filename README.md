@@ -10,8 +10,7 @@ assigned to which faculty.
 
 
 
-
-![image](https://user-images.githubusercontent.com/115460380/232561923-adf40794-65ba-4549-9766-d37a56b08dda.png)
-
+ER diagram
+![batch monitoring system](https://user-images.githubusercontent.com/115460380/233270519-17761a8e-50f3-416d-b75b-0f3738113473.png)
 
 
