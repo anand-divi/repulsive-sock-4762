@@ -1,4 +1,4 @@
-# repulsive-sock-4762
+# Batch Monitoring System
 
              This is my construct week project. made with Java, JDBC, and MySQL technology.
 
